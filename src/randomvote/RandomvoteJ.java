@@ -20,7 +20,7 @@ public class RandomvoteJ extends javax.swing.JFrame {
         initComponents();
        
     }
-    //List<Integer> ints = new ArrayList<Integer>();
+
 ArrayList<String> choices = new ArrayList<String>();
 
 
